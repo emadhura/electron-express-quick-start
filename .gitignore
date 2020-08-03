@@ -1,0 +1,19 @@
+# Bower dependency directory (https://bower.io/)
+bower_components
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Electron builds
+dist
+
+# Optional eslint cache
+.eslintcache
+
+#files
+*.tgz
+*.log
