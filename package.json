@@ -20,7 +20,7 @@
   },
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^9.1.2"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
